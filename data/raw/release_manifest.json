@@ -1,0 +1,43 @@
+{
+  "audience_role": "student_project",
+  "campaigns": [
+    "C01",
+    "C02",
+    "C03"
+  ],
+  "canonical_full_exploration_release": true,
+  "dataset_id": "DS02",
+  "file_sha256": {
+    "README.md": "a26885e8350b5483bf8fba8e8bbe56ac0a47044a463c0376d92edd76f66da203",
+    "alteration.csv": "f694c0bbd6cb51cfd815b969269b593974d5c199142b24ebb4d4f007e85acb21",
+    "assay.csv": "d8c3ef6e4220662d649fcc88573409e0ae3d91994473560e7e003575ef7a824a",
+    "collar.csv": "293946ebaf1e67d31452cd93efc805687e233ac6d1d80091e5794f1f3c8111b8",
+    "data_dictionary.csv": "a064bd18a482f6868f1f257ce839940792e37d2338f00858214b742235cb2ff3",
+    "density.csv": "effe3063830de49170b2773aede2e18fe53b807b64419e11401a9188d1780cf5",
+    "lithology.csv": "ed392c9cd7cb1473a5807fd374b72b8f77d1f9107d70ffc84247053174300c3e",
+    "survey.csv": "663b3a25950ae2059192e6500e166ba452e3495cf5f03f5bf887f8d6d5f40985"
+  },
+  "files": [
+    "collar.csv",
+    "survey.csv",
+    "lithology.csv",
+    "alteration.csv",
+    "assay.csv",
+    "density.csv",
+    "README.md",
+    "data_dictionary.csv"
+  ],
+  "n_alteration_intervals": 0,
+  "n_assays": 8002,
+  "n_density_samples": 630,
+  "n_holes": 54,
+  "n_lithology_intervals": 153,
+  "n_surveys": 385,
+  "project_id": "pampa_norte",
+  "project_name": "Pampa Norte",
+  "release_id": "EXP03",
+  "release_type": "exploration",
+  "resource_or_reserve_statement": false,
+  "schema_version": "1.0",
+  "synthetic_data": true
+}
